@@ -2,6 +2,10 @@
 
 Blue Jeans offers an easy to use script library for inclusion on your page in order to instantiate the meeting room.  A simple JavaScript object called BJN_CLIENT is setup in advance of the script include to setup the meeting.
 
+# Requirements
+
+**New as of Aug 2019**  For improved security, BlueJeans now requires whitelisting any web site that employs _embed_.  Failure to whitelist your web site will result in a no webpage being loaded.  To request whitelisting, contact BlueJeans to provide the whitelisting reference information.
+
 ## Variables
 
 This table presents a list of various properties that can be set on the BJN_CLIENT object before including embed.js.

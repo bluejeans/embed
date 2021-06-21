@@ -1,3 +1,16 @@
+
+![image](https://user-images.githubusercontent.com/61582779/122756740-7099b580-d2b4-11eb-955d-0fcd2b38337e.png)
+
+
+**This version of Embed SDK has been deprecated. BlueJeans has launched new Embed SDK at** https://github.com/bluejeans/webrtc-embed-sdk 
+If you are using this SDK, we advice you to move to new Embed SDK as soon as possible. 
+Reach out to BlueJeans support at https://support.bluejeans.com/s/contactsupport for further enquiries. 
+
+
+
+
+
+
 # embed
 
 Blue Jeans offers an easy to use script library for inclusion on your page in order to instantiate the meeting room.  A simple JavaScript object called BJN_CLIENT is setup in advance of the script include to setup the meeting.
